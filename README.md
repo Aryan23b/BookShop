@@ -3,13 +3,7 @@ A feature-rich e-commerce bookshop application built for Android using 100% Jetp
 
 Demo
 
-![WhatsApp Image 2025-08-02 at 15 07 27_64f746e6](https://github.com/user-attachments/assets/6b05d8b6-5218-4c79-abd8-1e585bf88632)
-![WhatsApp Image 2025-08-02 at 15 07 28_0d566e04](https://github.com/user-attachments/assets/915a6bc3-8c87-4968-944a-2c45518c185d)
-![WhatsApp Image 2025-08-02 at 15 07 28_2b50ef5a](https://github.com/user-attachments/assets/2b4657de-992a-48de-8b5e-b827d070c8ff)
-![WhatsApp Image 2025-08-02 at 15 07 29_9dca1936](https://github.com/user-attachments/assets/4daabc97-cad6-46c2-b73c-280953451ad7)
-![WhatsApp Image 2025-08-02 at 15 07 30_5a17e33d](https://github.com/user-attachments/assets/a86508e6-f0b0-4866-8aa3-804e4bc4f5d8)
-![WhatsApp Image 2025-08-02 at 15 07 31_ce58f995](https://github.com/user-attachments/assets/5fff344a-96b7-46e8-a82f-e1cc955524ec)
-![WhatsApp Image 2025-08-02 at 15 07 33_ea9e9ebe](https://github.com/user-attachments/assets/bf4af7fb-63de-413e-8e11-99db2245598c)
+<div align="center"> <table> <tr> <td><img src="https://github.com/user-attachments/assets/6b05d8b6-5218-4c79-abd8-1e585bf88632" width="200"/></td> <td><img src="https://github.com/user-attachments/assets/915a6bc3-8c87-4968-944a-2c45518c185d" width="200"/></td> </tr> <tr> <td><img src="https://github.com/user-attachments/assets/2b4657de-992a-48de-8b5e-b827d070c8ff" width="200"/></td> <td><img src="https://github.com/user-attachments/assets/4daabc97-cad6-46c2-b73c-280953451ad7" width="200"/></td> </tr> <tr> <td><img src="https://github.com/user-attachments/assets/a86508e6-f0b0-4866-8aa3-804e4bc4f5d8" width="200"/></td> <td><img src="https://github.com/user-attachments/assets/5fff344a-96b7-46e8-a82f-e1cc955524ec" width="200"/></td> </tr> <tr> <td><img src="https://github.com/user-attachments/assets/bf4af7fb-63de-413e-8e11-99db2245598c" width="200"/></td> </tr> </table> </div>
 
 
 Key Features
